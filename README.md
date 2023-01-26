@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ck893607@gmail.com**
 
-- 📄 Know about my experiences [<a href="https://drive.google.com/file/d/1D9FK36J5HBUYQbrD49fD7TB_JggMpaH9/view?usp=sharing">Resume</a>]
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1D9FK36J5HBUYQbrD49fD7TB_JggMpaH9/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **Food beyond Love.**
 
@@ -54,6 +54,9 @@
 <br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandan1506&show_icons=true&locale=en" alt="chandan1506" /></p>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
