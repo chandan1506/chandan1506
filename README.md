@@ -10,7 +10,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandan1506" alt="chandan1506" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Nodejs and other backend frameworks**
 
 - 💬 Ask me about **javascript and MongoDB**
@@ -21,6 +20,7 @@
 
 - ⚡ Fun fact **Food beyond Love.**
 
+<br>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -36,7 +36,6 @@
                 alt="" height="30" width="40" /></a>
 </p>
 <br>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -49,7 +48,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan1506&show_icons=true&locale=en&layout=compact" alt="chandan1506" /></p>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandan1506&show_icons=true&locale=en" alt="chandan1506" /></p>
 <br>
 <br>
+<br>
+<br>
+<br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan1506&" alt="chandan1506" /></p>
