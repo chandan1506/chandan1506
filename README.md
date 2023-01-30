@@ -27,7 +27,7 @@
 <hr>
 
 <p align="left">
-<a href="https://linkedin.com/in/chandankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandankumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandan-kumar-4390b4246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandankumar" height="30" width="40" /></a>
    <a href="https://www.hackerrank.com/" target="blank"><img align="center"
                 src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"
                 alt="" height="30" width="40" /></a>
