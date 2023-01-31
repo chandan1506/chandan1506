@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ck893607@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1D9FK36J5HBUYQbrD49fD7TB_JggMpaH9/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1p8v9YRHPNQ6rQkRQk_PS9NpsTeFT7aDZ/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **Food beyond Love.**
 
