@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **javascript and MongoDB**
 
-<!-- - 📫 How to reach me **ck893607@gmail.com** -->
+- 📫 How to reach me **ck893607@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1p8v9YRHPNQ6rQkRQk_PS9NpsTeFT7aDZ/view?usp=sharing">Resume</a>
 
