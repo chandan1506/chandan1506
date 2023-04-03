@@ -13,13 +13,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🌱 I’m currently learning **Nodejs and other backend frameworks**
 
-- 👨‍💻 All of my projects are available at :- <a target="_blank" href="https://chandan1506.github.io/">Portfolio</a>
+- 👨‍💻 All of my projects are available at :- <a target="blank" href="https://chandan1506.github.io/">Portfolio</a>
 
 - 💬 Ask me about **javascript and MongoDB**
 
 <!-- - 📫 How to reach me **ck893607@gmail.com** -->
 
-- 📄 Know about my experiences :- <a target="_blank" href="https://drive.google.com/file/d/1p8v9YRHPNQ6rQkRQk_PS9NpsTeFT7aDZ/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences :- <a target="blank" href="https://drive.google.com/file/d/1p8v9YRHPNQ6rQkRQk_PS9NpsTeFT7aDZ/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **Food beyond Love.**
 
