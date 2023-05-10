@@ -30,10 +30,10 @@
 <hr>
 
 <p align="left">
-<a href="https://stackoverflow.com/users/21271337/chandan-kumar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="40" width="40" /></a> 
-<a href="https://codesandbox.io/u/chandan1506" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CodePen-Dark.svg" alt="" height="40" width="40" /></a>
-<a href="mailto:ck893607@gmail.com" target="_blank"><img align="center" src="https://github.com/abhishek1494k/abhishek1494k/raw/main/assets/handles/gmail.svg" alt="mail" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/chandan-kumar-4390b4246/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/21271337/chandan-kumar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a> 
+<a href="https://codesandbox.io/u/chandan1506" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CodePen-Dark.svg" alt="" height="30" width="40" /></a>
+<a href="mailto:ck893607@gmail.com" target="_blank"><img align="center" src="https://github.com/abhishek1494k/abhishek1494k/raw/main/assets/handles/gmail.svg" alt="mail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandan-kumar-4390b4246/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="25" width="35" /></a>
   
 <!--    <a href="https://www.hackerrank.com/" target="blank"><img align="center"
                 src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"
