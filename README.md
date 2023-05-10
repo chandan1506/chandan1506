@@ -63,7 +63,7 @@
 
 <br>
 <br>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan1506&show_icons=true&locale=en&layout=compact" alt="chandan1506" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan1506&show_icons=true&locale=en&layout=compact" alt="chandan1506" /></p>
 <br>
 <br>
 <br>
@@ -73,7 +73,7 @@
 <br>
 <br>
 
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandan1506&show_icons=true&locale=en" alt="chandan1506" /></p> -->
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandan1506&show_icons=true&locale=en" alt="chandan1506" /></p>
 <br>
 <br>
 <br>
