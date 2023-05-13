@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan1506&label=Profile%20views&color=0e75b6&style=flat" alt="chandan1506" /> </p>
 <br>
@@ -84,6 +84,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandan1506&show_icons=true&locale=en" alt="chandan1506" /></p>
 <br>
@@ -93,12 +95,7 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan1506&" alt="chandan1506" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p><img align="left" src="https://raw.githubusercontent.com/abhishek1494k/abhishek1494k/output/github-contribution-grid-snake.svg" alt="chandan1506" /></p>
+
