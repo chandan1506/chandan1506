@@ -2,26 +2,38 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
-
+<img align="right" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan1506&label=Profile%20views&color=0e75b6&style=flat" alt="chandan1506" /> </p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 align="left">Github Trophies:</h3>
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandan1506" alt="chandan1506" /></a> </p>
 
+<h3 align="left">Some Personal Stuff:</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🌱 I’m currently learning **Nodejs and other backend frameworks**
+<hr>
+
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at :- <a target="_blank" href="https://chandan1506.github.io/">Portfolio</a>
 
-- 💬 Ask me about **javascript and MongoDB**
+- 💬 Ask me about **javascript and Node.js**
 
 - 📫 How to reach me :- <a target="_blank" href="mailto:ck893607@gmail.com">ck893607@gmail.com</a> 
 
 - 📄 Know about my experiences :- <a target="_blank" href="https://drive.google.com/file/d/1kSFdwpcVkbW_e8m0WiBSx4FtGP0uW84C/view?usp=sharing">Resume</a>
 
-- ⚡ Fun fact **Food beyond Love.**
+- ⚡ Fun fact <**Food beyond Love**/>
 
 <br>
 
@@ -72,8 +84,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandan1506&show_icons=true&locale=en" alt="chandan1506" /></p>
 <br>
@@ -83,6 +93,12 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan1506&" alt="chandan1506" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><img align="left" src="https://raw.githubusercontent.com/abhishek1494k/abhishek1494k/output/github-contribution-grid-snake.svg" alt="chandan1506" /></p>
