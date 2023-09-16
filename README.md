@@ -101,5 +101,5 @@
 <br>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan1506&" alt="chandan1506" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=chandan1506" alt="chandan1506" /></p>
 
